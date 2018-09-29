@@ -1,3 +1,5 @@
+
+
 # Intro to Hashes Lab
 
 ## Objectives
