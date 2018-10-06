@@ -13,7 +13,7 @@ end
 
 def monopoly_with_second_tier
 
-		monopoly = {:name => "Dwayne The Rock Johnson"}
+		monopoly = {:railroads => "Dwayne The Rock Johnson"}
 end
 
 def monopoly_with_third_tier
