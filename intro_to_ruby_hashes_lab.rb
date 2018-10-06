@@ -14,7 +14,7 @@ end
 def monopoly_with_second_tier
 
 		monopoly = {:railroads => "railroad", :value = > {}}
-		
+		monopoly = {railroads: {pieces: 4, names: {}, rent_in_dollars: {}}}
 end
 
 def monopoly_with_third_tier
