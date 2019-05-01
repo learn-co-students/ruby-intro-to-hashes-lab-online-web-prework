@@ -5,11 +5,13 @@ def new_hash
 end
 
 def actor
-{name: "Dwayne The Rock Johnson"}
+actor = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly = {railroads: {}}
+	monopoly = {
+    railroads: {}
+  }
 end
 
 def monopoly_with_second_tier
@@ -17,7 +19,7 @@ monopoly = {railroads:
             {pieces: 4,
             names: {},
             rent_in_dollars: {},
-}
+  }
 }
 end
 
